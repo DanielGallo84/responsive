@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: flex-start;
+    
+}
+.imageContainer{
+    height: 10vw;
+    width: 10vw;
+    border-color: solid 1px black;
+    background-size: cover;
+    padding: 3rem;
+}
+#imageContainer1{
+    justify-content: center;
+    background-image: url(./IMG/adrian-mag-OcCmoDlcHjs-unsplash.jpg);
+}
+#imageContainer2{
+    justify-content: center;
+    background-image: url(./IMG/annie-spratt-s_FOCJ51q1w-unsplash.jpg);
+}
+#imageContainer3{
+    justify-content: center;
+    background-image: url(./IMG/neom-4q87Z96NBYg-unsplash.jpg);
+}
+#imageContainer4{
+    justify-content: center;
+    background-image: url(./IMG/norbert-buduczki-gnU7b_XmDQ0-unsplash.jpg);
+}
